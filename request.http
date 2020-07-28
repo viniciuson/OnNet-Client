@@ -1,0 +1,2 @@
+GET http://177.85.0.28:7200/user/1
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjEsImlhdCI6MTU4NjgwODE0OH0.j-ShwZefsG45-VDlW-hve6HqiXS-Wh5zP116gwF1MqY
